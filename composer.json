@@ -1,5 +1,5 @@
 {
-    "name": "xrowgmbh/soap-client",
+    "name": "xrow/soap-client",
     "type": "library",
     "description": "A PHP client for the Salesforce SOAP API",
     "keywords": [ "salesforce", "crm", "soap", "force.com", "web services" ],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "xrowgmbh/common": "1.1",
+        "xrow/common": "1.0",
         "psr/log": "*"
     },
     "require-dev": {
